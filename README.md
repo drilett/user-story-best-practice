@@ -101,7 +101,7 @@ Agile development uses four clear delivery methods to bring structure to any pro
    * (As a wire customer I want to understand the full value and impact of a PRN distribution so my purchase decision is validated)[https://prnewswire.jira.com/browse/VREP-2674]
 
 ## IN-SESSION EXERCISE YOU’LL LEAD:
-* Break into groups of 2-3
+* Break into groups
 * Present feature
 * As a group write an epic and a few user stories
 * Review epic and user stories and dicuss
